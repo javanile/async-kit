@@ -1,4 +1,6 @@
-# async-kit
+# Async Kit
+
+Smart way to growth your ASYNC/AWAIT project
 
 ```js
 const func1 = async () => {
@@ -6,7 +8,4 @@ const func1 = async () => {
   
   console.log(value)
 };
-
-
-
 ```
